@@ -6,7 +6,7 @@ A super-light asynchronous task orchestrator that distributes queued requests ac
 
 ---
 
-## 🧠 What is MTFIFO?
+## 🧩 What is MTFIFO?
 
 `MTFIFO` is a zero-dependency FIFO-first async job manager. It lets you:
 
